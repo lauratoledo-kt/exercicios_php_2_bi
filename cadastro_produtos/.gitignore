@@ -1,0 +1,7 @@
+# Dados locais, arquivos gerados e logs não devem ser versionados.
+.env
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
